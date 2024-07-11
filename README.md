@@ -4,5 +4,4 @@ El sistema consiste en dos sistemas embebidos, uno para gestionar las ventas de 
 Tecnologías usadas:
 Java 8, JDBC, JasperReports, MySQL.
 
-Enunciado:
-[Trabajo Práctico Central - Enunciado 2021 - 1S.docx](https://github.com/leonelSubelza/TP-Empresa-De-Calzado/files/9104665/Trabajo.Practico.Central.-.Enunciado.2021.-.1S.docx)
+Enunciado: [Trabajo Práctico Central - Enunciado 2021 - 2C_V2.pdf](https://github.com/user-attachments/files/16183556/Trabajo.Practico.Central.-.Enunciado.2021.-.2C_V2.pdf)
